@@ -1,0 +1,147 @@
+---
+title: 新概念英语第二册-Lesson1
+mathjax: true
+date: 2022-07-11 11:58:32
+tags: 
+  - NewConceptEnglish2
+  - English
+---
+
+# 新概念英语第二册-Lesson1
+
+## 词汇
+
+-  `private` 私人的 $adj.$ 
+
+-  `conversation` 谈话 $n.$ 
+
+-  `theatre` 剧院 $n.$ 
+
+-  `seat` 座位 $n.$ 
+
+-  `play` 戏剧 $n.$ 
+
+-  `loudly` 大声的 $adv.$ 
+
+-  `angry` 生气的 $adj.$ 
+
+-  `angrily` 生气地 $adv.$ 
+
+-  `attention` 注意 $n.$ 
+
+-  `bear` 容忍 $v.$ 
+
+-  `business` 事 $n.$ 
+
+缀：
+-  `*ate`  $adj./v.$ 
+
+- `con*` 一起
+
+- `*tion` $n.$ 
+
+## 表达
+
+-  `go to the theatre` 去影院 $go \ to+(the)n.$
+-  `get angry` 变得生气 $get \to V_系$ 
+-  `turn round` 转圈
+-  `pay attention` 注意
+-  `I can not bear it` 我不能容忍它 
+-  `none of your business` 不是你的事 $none(+ of + \cdots)$
+
+## 文章
+
+ **Last week** I went to the theatre. 
+
+ **Last week** ：时间状语
+
+I had a very good seat. 
+
+ **The play** was very interesting. 
+
+ **The play** : 指代作者看的戏
+
+I did not enjoy it. 
+
+A young man and a young woman **were sitting**  **behind me** . 
+
+ **were sitting** : 过去进行时
+
+ **behind me** : 地点状语
+
+They **were talking** **loudly** . 
+
+ **loudly** : 副词作方式状语
+
+I **got** very angry. 
+
+**got**  $V_系$ 
+
+I **could** not **hear** the **actor** s. 
+
+ **could** : 一般过去时 
+
+ **hear** : 强调结果
+
+ **actor** : $act(表演) + *or(名词后缀)$ 
+
+I turned round. 
+
+I **looked** at the man and the woman **angrily** . 
+
+ **looked** : 强调过程
+
+ **angrily** : 副词作方式状语
+
+They did not pay **any** attention. 
+
+ **any** : 用于否定或疑问句中
+
+ **In the end** , I could not bear it. 
+
+ **In the end** : 固定短语
+
+I turned round again. 
+
+ **'** **I can't hear a word!**  **'** I said angrily.
+
+ **I can't hear a word!** : 一个词也听不见
+
+**'...'** : 表引用
+
+'It's none of your business,' the young man said rudely. 'This is a private conversation!'
+
+## 语言点
+
+### 一般过去式
+
+- 含义： **过去做过** 且 **已结束** 的动作
+- 形式： $Sb \ did \ sth$ 
+- 例句： `I learned English yesterdey` 
+- 动词过去式变化：
+  1. 一般情况 **加 `ed` ** 
+  2. 以不发音的 `e` 结尾 **加 `ed` ** 
+  3. 重读闭音节， **双写加 `ed` ** 
+  4. 不规则变化
+
+### 过去进行时
+
+- 含义：过去某阶段正在进行的动作
+- 形式： $Sb \ be_{ed} \ doing$ 
+- 例句： `I was learning English then` 
+- 动词 `ing` 形式：
+  1. 一般情况 **加 `ing` ** 
+  2. 以不发音的 `e` 结尾 **去 `e` 加 `ing` ** 
+  3. 重读闭音节， **双写加 `ing` ** 
+
+### 语序
+
+- 陈述语序 `S-V-O(主谓宾)` 
+
+   `E.g: You love me`  
+
+- 疑问语序 $V_助$ 提前
+
+   `E.g: Do you love me?`  
+
+- 状语位置 **常用状语后置倒装句** 
