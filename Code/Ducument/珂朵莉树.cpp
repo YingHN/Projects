@@ -25,7 +25,7 @@ auto split(int pos)
 // 将原本包含点#pos的区间(设为[l, r))分裂为两个区间[l, pos - 1]和[pos, r), 
 // 并返回指向后者的迭代器
 {
-	auto it = s.lower_bound((node)(pos) /* 调用构造函数构造node */ );
+	auto it = s.lower_bound((node)(pos));
   // 返回首个l大于等于pos的元素的迭代器
 	// 若没有找到, 返回end()("大于等于"在set源码中使用运算符<, 因此只需重载运算符<)
 	// 这里用于找到点#pos**所在的区间的右边的区间** (需要再-1(见下5行))
@@ -38,7 +38,7 @@ auto split(int pos)
 		return s.end();
 	int l = it->l, r = it->r, k = it->k;
 	s.erase(it);
-	s.insert((node){l, pos - 1, k} /* ! 这不是构造函数 */ );
+	s.insert((node){l, pos - 1, k});
 	return s.insert((node){pos, r, k}).first;
 	// insert()的返回值类型为pair<iterator, bool>, 
 	// 其中iterator是一个指向所插入元素的迭代器, 
