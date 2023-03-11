@@ -1,18 +1,20 @@
 #include<bits/stdc++.h>
 using namespace std;
 string ans;
+bool flag=1;
 void f()
 {
   string str;
   if(!(cin>>str))
   {
-    ans="0";
+    flag=0;
     return;
   }
+  ans+=str;
   if(str=="int")return;
   else
   {
-    ans+="pair<";
+    ans+="<";
     f();
     ans+=",";
     f();
@@ -25,6 +27,8 @@ int main()
 {
   scanf("%*d");
   f();
-  if(scanf("%*s")!=-1&&ans[0]==0)cout<<"Error occurred";
+  if(scanf("%*s")!=-1||flag==false)cout<<"Error occurred";
   else cout<<ans;
 }
+
+// AC
