@@ -2,7 +2,7 @@
 using namespace std;
 
 const int MAXN=2e5+7;
-int n,a[MAXN];
+int n,a,v[MAXN],diff[MAXN];
 int main()
 {
   int T;
@@ -10,20 +10,17 @@ int main()
   while(T--)
   {
     cin>>n;
-    int V=0;
-    for(int i=0;i<=n;++i)
+    for(int i=1;i<=n;++i)
     {
-      cin>>a[i];
-      V<<=1;
-      int aa=(int)pow(2,a[i])-1;
-      if(aa>=V)V=(int)pow(2,i)-1;
-      V|=aa;
+      cin>>a;
+      diff[i-a]+=1;
+      diff[i+1]-=1;
     }
-    while (V)
+    int ans=0;
+    for(int i=1;i<=n;++i)
     {
-      cout<<(V&1);
-      V>>=1;
+      ans+=diff[i];
+      cout<<(bool)ans;
     }
-    cout<<"\n";
   }
 }
